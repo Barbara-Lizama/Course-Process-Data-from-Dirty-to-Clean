@@ -1,4 +1,4 @@
-# Course-Process-Data-from-Dirty-to-Clean
+# Process-Data-from-Dirty-to-Clean
 
 ## Data Cleansing process - Functions app
 International-Logistics-Association-Memberships---Data-for-Cleaning.xlsx
